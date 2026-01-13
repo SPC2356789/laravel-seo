@@ -34,13 +34,13 @@
     },
     "autoload": {
         "psr-4": {
-            "_34ML\\SEO\\": "src/",
-            "_34ML\\SEO\\Database\\Factories\\": "database/factories/"
+            "spc2356789\\SEO\\": "src/",
+            "spc2356789\\SEO\\Database\\Factories\\": "database/factories/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "_34ML\\SEO\\Tests\\": "tests/",
+            "spc2356789\\SEO\\Tests\\": "tests/",
             "Workbench\\App\\": "workbench/app/"
         }
     },
@@ -72,10 +72,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "_34ML\\SEO\\SEOServiceProvider"
+                "spc2356789\\SEO\\SEOServiceProvider"
             ],
             "aliases": {
-                "SEO": "_34ML\\SEO\\Facades\\SEO"
+                "SEO": "spc2356789\\SEO\\Facades\\SEO"
             }
         }
     },

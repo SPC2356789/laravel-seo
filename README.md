@@ -7,7 +7,7 @@ This package will help you to manage your website SEO easily.
 You can install the package via composer:
 
 ```bash
-composer require 34ml/laravel-seo
+composer require spc2356789/laravel-seo
 ```
 
 You can publish and run the migrations with:
@@ -146,7 +146,7 @@ return [
 
 Find the model you want to have the SEO fields on, example could be App\Models\Page, then add the SeoTrait trait:
 ```php
-use _34ML\SEO\Traits\SeoTrait;
+use spc2356789\SEO\Traits\SeoTrait;
 
 class Page extends Model
 {
@@ -157,8 +157,8 @@ class Page extends Model
 
 When you want the eloquent model to be shown in the sitemap then you need to add the SeoSiteMapTrait trait to it:
 ```php
-use _34ML\SEO\Traits\SeoTrait;
-use _34ML\SEO\Traits\SeoSiteMapTrait;
+use spc2356789\SEO\Traits\SeoTrait;
+use spc2356789\SEO\Traits\SeoSiteMapTrait;
 
 class Page extends Model
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace _34ML\SEO;
+namespace spc2356789\SEO;
 
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;

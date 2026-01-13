@@ -1,8 +1,8 @@
 <?php
 
-namespace _34ML\SEO\Tests;
+namespace spc2356789\SEO\Tests;
 
-use _34ML\SEO\SEOServiceProvider;
+use spc2356789\SEO\SEOServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
 

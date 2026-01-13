@@ -1,6 +1,6 @@
 <?php
 
-namespace _34ML\SEO;
+namespace spc2356789\SEO;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\MorphTo;

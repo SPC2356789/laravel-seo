@@ -1,8 +1,8 @@
 <?php
 
-namespace _34ML\SEO\Traits;
+namespace spc2356789\SEO\Traits;
 
-use _34ML\SEO\SEO;
+use spc2356789\SEO\SEO;
 use Illuminate\Database\Eloquent\Relations\MorphOne;
 
 trait SeoTrait

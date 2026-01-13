@@ -1,6 +1,6 @@
 <?php
 
-namespace _34ML\SEO\Traits;
+namespace spc2356789\SEO\Traits;
 
 trait SeoSiteMapTrait
 {

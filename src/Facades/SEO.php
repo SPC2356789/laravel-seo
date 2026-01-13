@@ -1,6 +1,6 @@
 <?php
 
-namespace _34ML\SEO\Facades;
+namespace spc2356789\SEO\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
@@ -11,6 +11,6 @@ class SEO extends Facade
 {
     protected static function getFacadeAccessor(): string
     {
-        return \_34ML\SEO\SEO::class;
+        return \spc2356789\SEO\SEO::class;
     }
 }

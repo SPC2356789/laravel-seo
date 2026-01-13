@@ -1,6 +1,6 @@
 <?php
 
-namespace _34ML\SEO\Helpers;
+namespace spc2356789\SEO\Helpers;
 
 class Seo
 {
