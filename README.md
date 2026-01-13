@@ -192,7 +192,7 @@ Then go to the top of your layout blade as the default is resources/views/welcom
 ```html
 ...
 <head>
-    @include('laravel-seo::seo')
+    @include('seo::seo')
     ...
 </head>
 ```

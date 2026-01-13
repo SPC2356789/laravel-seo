@@ -21,4 +21,9 @@ class SEOServiceProvider extends PackageServiceProvider
             ->hasMigration('create_seo_table')
             ->hasRoutes();
     }
+    public function boot()
+    {
+        $this->loadViewsFrom(__DIR__.'/Views', 'seo');
+    }
+
 }
