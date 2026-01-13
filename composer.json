@@ -1,12 +1,12 @@
 {
-    "name": "34ml/laravel-seo",
+    "name": "spc2356789/laravel-seo",
     "description": "This package will help you to manage your website SEO easily.",
     "keywords": [
         "34ML",
         "laravel",
         "laravel-seo"
     ],
-    "homepage": "https://github.com/34ml/laravel-seo",
+    "homepage": "https://github.com/spc2356789/laravel-seo",
     "license": "MIT",
     "authors": [
         {
